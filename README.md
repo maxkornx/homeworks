@@ -1,2 +1,2 @@
-# homeworks
+# Домашки
 Домашки по курсу Web Start
